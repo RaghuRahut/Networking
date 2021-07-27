@@ -2,7 +2,7 @@
 
 ## Youtube Video Links
 
-[OSI Model](https://www.youtube.com/watch?v=eMzCI7S1P9M&t=19s)  
+[OSI Model](https://www.youtube.com/watch?v=vv4y_uOneC0)  
 [Hub Switch Router](https://www.youtube.com/watch?v=1z0ULvg_pW8&t=336s)  
 [Modem vs Router](https://www.youtube.com/watch?v=Mad4kQ5835Y&t=335s)  
 [FireWall](https://www.youtube.com/watch?v=kDEX1HXybrU)  
